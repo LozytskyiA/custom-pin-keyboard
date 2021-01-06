@@ -1,4 +1,4 @@
-# React Native Pin View
+# Custom pin keyboard
 
 ## Getting Started
 
