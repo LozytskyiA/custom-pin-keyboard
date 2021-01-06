@@ -17,7 +17,7 @@ npm install --save custom-pin-keyboard
 ## Basic Usage
 
 ```
-import PinView from 'react-native-pin-view';
+import PinView from 'custom-pin-keyboard';
 
 ...
         <PinView pinLength={6} />
@@ -70,7 +70,7 @@ import PinView from 'react-native-pin-view';
 import Icon from "react-native-vector-icons/Ionicons";
 import React, { useEffect, useRef, useState } from "react";
 import { ImageBackground, SafeAreaView, StatusBar, Text } from "react-native";
-import ReactNativePinView from "react-native-pin-view";
+import ReactNativePinView from "custom-pin-keyboard";
 const App = () => {
   const pinView = useRef(null);
   const [showRemoveButton, setShowRemoveButton] = useState(false);
