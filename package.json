@@ -1,0 +1,35 @@
+{
+  "name": "custom-pin-keyboard",
+  "version": "3.0.2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/LozytskyiA/custom-pin-keyboard.git"
+  },
+  "description": "React Native Pin View Component for Protection",
+  "keywords": [
+    "react-native",
+    "pin-view",
+    "pin-password",
+    "pin-view-password",
+    "react-native-pin-view",
+    "react pin view",
+    "pin view",
+    "pinlock",
+    "code",
+    "react-security-view",
+    "react pin",
+    "react password",
+    "pin",
+    "PinView"
+  ],
+  "peerDependencies": {
+    "react-native": "^0.63.4"
+  },
+  "main": "index.js",
+  "types": "react-native-pin-view.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "homepage": "https://github.com/LozytskyiA/custom-pin-keyboard"
+}
