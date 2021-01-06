@@ -5,13 +5,13 @@
 **via Yarn**
 
 ```
-yarn add react-native-pin-view
+yarn add custom-pin-keyboard
 ```
 
 **via NPM**
 
 ```
-npm install --save react-native-pin-view
+npm install --save custom-pin-keyboard
 ```
 
 ## Basic Usage
